@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Rick&amp;Morty</string>
+    <string name="welcome">Begin</string>
+
+    <string name="question_one">1. In "Get Schwifty", what authorization
+        code does the President use when trying to call off the nukes? </string>
+
+    <string name="question_one_option_1">Tora Tora Tora</string>
+    <string name="question_one_option_2">Tango Niner Alpha</string>
+    <string name="question_one_option_3">Zeta Delta Tango</string>
+    <string name="question_one_option_4">Bluebird</string>
+
+    <string name="question_two">2. In \"Auto Erotic Assimilation\", Rick finds two
+        compounds on Beta-Seven's landing craft. Name one</string>
+
+    <string name="question_two_option_1">Collaxion Crystals</string>
+    <string name="question_two_option_2">Powdered Zanthanite</string>
+    <string name="question_two_option_3">Infetitron</string>
+    <string name="question_two_option_4">Purgenol</string>
+
+    <string name="question_three">3. Which radio station plays "Human Music"? </string>
+
+    <string name="question_three_option_1">Human Radio</string>
+    <string name="question_three_option_2">Earth Radio</string>
+    <string name="question_three_option_3">Radio Radio</string>
+    <string name="question_three_option_4">Music Radio</string>
+
+    <string name="question_four">4. What is the name of Unity\'s neighbouring Hivemind?</string>
+
+    <string name="question_four_option_1">Alpha-Prime</string>
+    <string name="question_four_option_2">Seven of Nine</string>
+    <string name="question_four_option_3">Beta-Seven</string>
+    <string name="question_four_option_4">Zeta-Four</string>
+
+    <string name="question_five">5. According to Summer\'s flashback,
+        where does Tinkles, the Ballerina Lamb come from?</string>
+
+    <string name="question_five_option_1">Never-cry-land</string>
+    <string name="question_five_option_2">No-little-brothers</string>
+    <string name="question_five_option_3">Never-past-bedtime</string>
+    <string name="question_five_option_4">Spank-yo-monkey</string>
+
+    <string name="question_six">6. Who shot Mr Poopybutthole?"</string>
+
+    <string name="question_six_option_1">Rick</string>
+    <string name="question_six_option_2">Frankenstein\'s Monster</string>
+    <string name="question_six_option_3">Beth</string>
+    <string name="question_six_option_4">Ghost-in-a-Jar</string>
+
+    <string name="question_seven">7. When the car wont start in "The Ricks Must be Crazy", what does Rick think the problem is? </string>
+
+    <string name="question_seven_option_1">Geldon converter</string>
+    <string name="question_seven_option_2">Quantum carburetor</string>
+    <string name="question_seven_option_3">Improbability drive</string>
+    <string name="question_seven_option_4">Micro-verse-battery</string>
+
+
+    <string name="question_eight">8. When Morty takes Summer to his Original
+        dimension, what name does she call her other self? </string>
+
+    <string name="question_eight_option_1">Hunger Games Summer</string>
+    <string name="question_eight_option_2">Feral Fashion Barbie</string>
+    <string name="question_eight_option_3">Basic Bitch Summer</string>
+    <string name="question_eight_option_4">Mad Max Summer</string>
+
+
+    <string name="question_nine">9. When Morty complains about the fairness of his
+        trial by the Council of Ricks, which of these ISN\'T said in reply? </string>
+
+    <string name="question_nine_option_1">You have no rights</string>
+    <string name="question_nine_option_2">It\'s not fair</string>
+    <string name="question_nine_option_3">No one cares</string>
+    <string name="question_nine_option_4">He\'s not a lawyer</string>
+
+    <string name="question_ten">10. Which of these is NOT a ride at Anatomy Park"? </string>
+    <string name="question_ten_option_1">Pirates of the Appendix</string>
+    <string name="question_ten_option_2">Spleen Mountain</string>
+    <string name="question_ten_option_3">Haunted Kidney</string>
+    <string name="question_ten_option_4">Bladder Falls</string>
+
+    <string name="ensure_you_answer_all_questions">Ensure you answer all questions</string>
+    <string name="your_score_is">Your Score is </string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="hint">Two words</string>
+</resources>
